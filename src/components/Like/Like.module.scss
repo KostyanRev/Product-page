@@ -1,0 +1,68 @@
+.container {
+  .title {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #343434;
+  }
+
+  .cards {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .photo {
+    margin-bottom: 15px;
+    svg {
+      position: relative;
+      z-index: 1;
+      top: 47px;
+      left: 325px;
+    }
+  }
+
+  .cardTitle {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #343434;
+    margin-bottom: 20px;
+  }
+
+  .price {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #4aaa4e;
+  }
+
+  .description {
+    p {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      color: #626262;
+    }
+  }
+
+  .watchMore {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 59px;
+
+    .watchText {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      color: #626262;
+    }
+
+    img {
+      width: 24px;
+      height: 24px;
+      margin-bottom: 80px;
+    }
+  }
+}

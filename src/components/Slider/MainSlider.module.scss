@@ -1,0 +1,14 @@
+.slider_container {
+  position: relative;
+
+  .arrow_buttons {
+    position: absolute;
+    right: 1rem;
+    top: -25px;
+
+    .prevBtn {
+      margin-right: 20px;
+      transform: rotateY(180deg);
+    }
+  }
+}

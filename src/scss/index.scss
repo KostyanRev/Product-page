@@ -1,0 +1,22 @@
+@import 'nullstyle.scss';
+
+body {
+  margin: 10;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fbfafa;
+}
+
+* {
+  font-family: 'Roboto';
+}
+
+.wrapper {
+  background: #ffffff;
+  max-width: 1366px;
+  margin: 0 auto;
+}
+
+.content {
+  padding: 0px 98px;
+}
