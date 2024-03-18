@@ -1,3 +1,12 @@
+**Stack:**
+
+- ReactJS
+- SCSS
+- CSS Modules
+- Firebase
+
+### Link for live overview on hosting: [https://react-sneakers-ee6cd.web.app/](https://product-page-963a3.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
